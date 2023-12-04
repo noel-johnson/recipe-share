@@ -19,12 +19,12 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC8k7LSootkj9e27f-msEutHkNqfJ_zdEw",
-  authDomain: "recipe-share-74a5c.firebaseapp.com",
-  projectId: "recipe-share-74a5c",
-  storageBucket: "recipe-share-74a5c.appspot.com",
-  messagingSenderId: "941627393363",
-  appId: "1:941627393363:web:7244c524e6841207144da6",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 const app = initializeApp(firebaseConfig);
